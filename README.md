@@ -34,8 +34,12 @@ Graficando en un histograma los datos de las ventas, obtenemos:
 ![image](https://github.com/user-attachments/assets/b1245730-e1a3-4cfe-a41c-66867025ee74)
 
 En este histograma se puede observar que, aunque no perfectamente, la distribución de los datos del rating es uniforme. Con esto podemos utilizar nuevamente la función de densidad de probabilidad beta.
-Utilizando la función de densidad de probabilidad de beta obtenemos los siguientes resultados:
+Utilizando python y la función de densidad de probabilidad de beta obtenemos los siguientes resultados:
 
 ![image](https://github.com/user-attachments/assets/6d88050f-3894-4fb2-b79c-ff69e03c1595)
 
 Con lo que la probabilidad de que los ratings sean mayores a los deseados es de aproximadamente 17.31%. Este resultado no es satisfactorio, ya que la probabilidad mencionada no es muy alta, lo que nos dice que nuestros clientes no tienen una preferencia especial por nuestro supermercado. Al momento de establecer una nueva sucursal debemos de tomar esto en cuenta, ya que los posibles clientes no compran en nuestro supermercado por una preferencia especial, lo cual puede llegar a ser un riesgo si se establecen otros supermercados en la zona.
+
+## Referencias
+Conserje. (2024). Glassdoor. https://www.glassdoor.com.mx/Sueldos/conserje-sueldo-SRCH_KO0,8.htm
+Tarifas Domésticas CFE 2022: ¿Cómo saber en cuál estoy? (2021, January 27). Tarifasdeluz.mx. https://tarifasdeluz.mx/cfe-tarifas
