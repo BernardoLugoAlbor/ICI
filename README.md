@@ -29,3 +29,13 @@ Al llevar a cabo los pasos estipulados en python, obtenemos los siguientes resul
 Lo que más nos interesa de estos resultados es el porcentaje de aprobación de la población. Dado que este porcentaje nos da 60.67%, podemos decir que no no es viable establecer una sucursal en esta comunidad, ya que el porcentaje mencionado es bastante alto, con lo que se necesitaría de una recepción del público abrumadoramente positiva para que el proyecto sea sustentable. Esto se debe mayormente al gasto de la luz, con lo que, al menos que se tenga un contrato especial con la CFE, este gasto vuelve insostenible la implementación de la nueva sucursal.
 
 ## Resultados (Ratings)
+Graficando en un histograma los datos de las ventas, obtenemos:
+
+![image](https://github.com/user-attachments/assets/b1245730-e1a3-4cfe-a41c-66867025ee74)
+
+En este histograma se puede observar que, aunque no perfectamente, la distribución de los datos del rating es uniforme. Con esto podemos utilizar nuevamente la función de densidad de probabilidad beta.
+Utilizando la función de densidad de probabilidad de beta obtenemos los siguientes resultados:
+
+![image](https://github.com/user-attachments/assets/6d88050f-3894-4fb2-b79c-ff69e03c1595)
+
+Con lo que la probabilidad de que los ratings sean mayores a los deseados es de aproximadamente 17.31%. Este resultado no es satisfactorio, ya que la probabilidad mencionada no es muy alta, lo que nos dice que nuestros clientes no tienen una preferencia especial por nuestro supermercado. Al momento de establecer una nueva sucursal debemos de tomar esto en cuenta, ya que los posibles clientes no compran en nuestro supermercado por una preferencia especial, lo cual puede llegar a ser un riesgo si se establecen otros supermercados en la zona.
